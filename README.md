@@ -1,7 +1,10 @@
 ### Hi there 👋
-안녕하세요!<br>
-현재 컴퓨터공학을 배우고 있는 4학년 학생 입니다.<br>
-GitHub는 학교를 다니면서 만들었던 간단한 프로그램을 올려두고  수정하기 위해서 사용합니다.
+**I am currently in the 4th year of Computer Engineering.**
+<br>
+<br>
+🌱 I’m currently learning: **Web Programming - FE/BE** <br>
+📫 How to reach me: pigismile@gmail.com <br>
+⚡ Fun fact: Good grades, but poor performance
 
 <!--
 **NaHyeonJeong/NaHyeonJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
