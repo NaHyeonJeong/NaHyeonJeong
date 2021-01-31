@@ -2,7 +2,7 @@
 **I am currently in the 4th year of Computer Engineering.**
 <br>
 <br>
-🌱 I’m currently learning: **Web Programming - FE/BE** <br>
+🌱 I’m currently learning: **Web Programming(BE), Web Scraping** <br>
 📫 How to reach me: pigismile@gmail.com <br>
 ⚡ Fun fact: Good grades, but poor performance
 
