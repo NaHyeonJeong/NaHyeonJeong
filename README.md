@@ -5,7 +5,7 @@
 🌱 I’m currently learning: **Web Programming(BE), Web Scraping** <br>
 📫 How to reach me: pigismile@gmail.com <br>
 ⚡ Fun fact: Good grades, but poor performance <br>
-📝 Certificate: 정보처리기사
+📝 Certificate: 
 
 <!--
 **NaHyeonJeong/NaHyeonJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
