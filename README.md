@@ -2,10 +2,10 @@
 **I am currently in the 4th year of Computer Engineering.**
 <br>
 <br>
-🌱 I’m currently learning: how to use **Youtube APIs**<br>
-📝 Certificate:<br>
-📫 How to reach me: pigismile@gmail.com <br>
-⚡ Fun fact: Good grades, but poor performance <br>
+🌱 I’m currently learning: Spring Framework(Spring boot), Kotlin   
+📝 Certificate:   
+📫 How to reach me: pigismile@gmail.com   
+⚡ Fun fact: Good grades, but poor performance   
 
 <!--
 **NaHyeonJeong/NaHyeonJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
