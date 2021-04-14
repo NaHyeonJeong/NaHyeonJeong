@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I am currently in the 4th year of Computer Engineering.**
+**I am currently in the senior year of Computer Engineering.**
 <br>
 <br>
 🌱 I’m currently learning: Spring Framework(Spring boot), Kotlin   
