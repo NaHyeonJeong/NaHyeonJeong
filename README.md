@@ -2,7 +2,7 @@
 **I am currently in the senior year of Computer Engineering.**
 <br>
 <br>
-🌱 I’m currently learning: Spring Framework(Spring boot), Kotlin   
+🌱 I’m currently learning: Spring Framework(Spring boot)🍃, Kotlin   
 📝 Certificate:   
 📫 How to reach me: pigismile@gmail.com   
 ⚡ Fun fact: Good grades, but poor performance   
