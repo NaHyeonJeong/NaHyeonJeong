@@ -1,17 +1,15 @@
 ### Hi there 👋
-**I am currently in the senior year of Computer Engineering.**
-<br>
-<br>
-🌱 I’m currently learning: Spring Framework(Spring boot)🍃, Kotlin   
-📝 Certificate:   
-📫 How to reach me: pigismile@gmail.com   
-⚡ Fun fact: Good grades, but poor performance   
+**I am currently in the senior year of Computer Engineering.**   
 
+📫 How to reach me: pigismile@gmail.com   
+🌱 I’m currently learning: Spring🍃, Kotlin   
+
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF"/><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=FFFFFF"/> 
 <!--
 **NaHyeonJeong/NaHyeonJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📝 Certificate:   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
