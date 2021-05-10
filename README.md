@@ -1,8 +1,9 @@
-### Hi there 👋
-**I am currently in the senior year of Computer Engineering.**   
+### 안냥 😺
+**한신대학교 컴퓨터공학부 4학년 재학 중 (2018.02 ~ )**   
+코가 간지러워서 마음과 유튜브로 😸 키워요    
 
 📫 How to reach me: pigismile@gmail.com   
-🌱 I’m currently learning: Spring🍃, Kotlin   
+🌱 I’m currently learning: Spring, Kotlin   
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF"/><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=FFFFFF"/>   
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/>
