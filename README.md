@@ -5,7 +5,7 @@
 
 ### 😜
 코가 간지러워서 마음과 유튜브로 😸 키워요    
-프레임워크를 경험해보고 싶어서 열심히 Spring을 공부하고 있어요   
+최근에는 Spring 공부에 집중!   
 
 📫 How to reach me: pigismile@gmail.com   
 🌱 I’m currently learning: Spring, Kotlin   
