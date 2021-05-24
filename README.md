@@ -9,7 +9,7 @@
 공부는 **Spring**에 집중하는 중   
 
 📫 How to reach me: pigismile@gmail.com   
-🌱 I’m currently learning: Spring, Kotlin   
+🌱 I’m currently learning: Spring, AWS, Kotlin   
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>   
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=FFFFFF"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=FFFFFF"/>    
