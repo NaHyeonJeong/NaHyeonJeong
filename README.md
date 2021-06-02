@@ -9,6 +9,7 @@
 공부는 **Spring**에 집중하는 중   
 
 📫 How to reach me: pigismile@gmail.com   
+📝 Certificate: 정보처리기사(Engineer Information Processing)   
 🌱 I’m currently learning: Spring, AWS, Kotlin   
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>   
