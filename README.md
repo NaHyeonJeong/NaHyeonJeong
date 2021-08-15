@@ -12,7 +12,7 @@
 📝 Certificate: 정보처리기사(Engineer Information Processing)   
 🌱 I’m currently learning: Spring, AWS, Kotlin   
 
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>   
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>   
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=FFFFFF"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=FFFFFF"/>    
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=FFFFFF"/>   
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF"/>
