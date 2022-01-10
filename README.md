@@ -6,9 +6,6 @@
 
 ### 😜
 코가 간지러워서 마음과 유튜브로 😸 덕질 중...    
-학교는 **졸업논문** 쓰는 중   
-공부는 **Spring**에 집중하는 중   
-(공부하는 코드를 다 올리기는 하는데 저작권 문제 있을까봐 private으로 올리고 있습니다)   
 
 📫 How to reach me: pigismile@gmail.com   
 📝 Certificate: 정보처리기사(Engineer Information Processing)   
